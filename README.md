@@ -1,3 +1,3 @@
 # Time-Series-Analysis
 Price volatility in India's agricultural sector poses challenges for both farmers and consumers. Fluctuations in prices, influenced by factors like rainfall variability and global dynamics, can impact incomes and expenses significantly. Government responses, while including measures like adjusting Minimum Support Prices (MSP), often prove reactive and limited. 
-This project aims to forecast prices for key commodities—Rice, Tomato, Potato, and Onion—in the West bengal and Odisha market. By providing accurate forecasts, it empowers farmers to make informed decisions on sales timing, and market choice. futther this can be extended for entire country 
+This project aims to forecast prices for key commodities—Rice, Tomato, Potato, and Onion—in the West bengal and Odisha market. By providing accurate forecasts, it empowers farmers to make informed decisions on sales timing, and market choice. further this project can be extended for entire country 
